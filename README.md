@@ -1,5 +1,5 @@
 ## Hi, $USERNAME)) 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+root)](https://git.io/typing-svg)
 <!--
 **Tren3000/Tren3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
