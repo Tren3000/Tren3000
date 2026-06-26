@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, $USERNAME)) 👋
 
 <!--
 **Tren3000/Tren3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
